@@ -6,7 +6,7 @@ date: 2016-02-16 15:32:24.000000000 +09:00
 
 #### What's this
 
-[Wno Jekyll](https://github.com/webbleen/wno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [wno](https://github.com/webbleen/wno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
+[Wno Jekyll](https://github.com/webbleen/wno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [wno](https://github.com/webbleen/wno), which is originally developed from [OneV-s-Den's Vno](https://github.com/onevcat/vno-jekyll).
 
 #### Usage
 
@@ -35,12 +35,11 @@ You could replace the background and avatar image in `assets/images` folder to c
 
 | Site Name    | URL                                                |
 | ------------ | ---------------------------------------------------|
-| OneV's Den   | [http://webbleen.com](http://webbleen.com)           |
-| July Tang    | [http://blog.julytang.xyz](http://webbleen.com)     |
-| Harry Lee    | [http://qiuqi.li](http://qiuqi.li)                 |
+| OneV's Den   | [http://onvcat.com](http://onevcat.com)           |
+| webbleen   | [http://webbleen.com](http://webbleen.com)           |
 
 > If you happen to be using this theme, welcome to [send me a pull request](https://github.com/webbleen/wno-jekyll/pulls) to add your site link here. :)
 
 #### License
 
-Great thanks to [Dale Anthony](https://github.com/daleanthony) and his [Uno](https://github.com/daleanthony/uno). Wno Jekyll is based on Uno, and contains a lot of modification on page layout, animation, font and some more things I can not remember. Wno Jekyll is followed with Uno and be licensed as [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/). See the link for more information.
+Great thanks to [OneV-s-Den](https://github.com/onevcat) and his [Vno](https://github.com/onevcat/vno-jekyll). Wno Jekyll is based on Vno, and contains a lot of modification on page layout, animation, font and some more things I can not remember. Wno Jekyll is followed with Vno and be licensed as [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/). See the link for more information.
