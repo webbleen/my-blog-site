@@ -1,8 +1,8 @@
 # Basic
 title: webbleen
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/webbleen/wno-jekyll" target="_blank">Download the theme</a>
-description: Wno Jekyll is a port of my Ghost theme wno.
+subtitle: 
+description: 昔我往矣，杨柳依依。今我来思，雨雪霏霏。
+welcome_message: 嗨，我是李文斌。
 creator: <a href="http://webbleen.com">@webbleen</a>
 
 url: "http://webbleen.com"
@@ -17,12 +17,13 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 博客
+    description: 访问博客
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.webbleen.com'}
+    - {title: 简历, description: 我的简历, url: 'http://resume.webbleen.com'}
+    # - {title: 标签, description: Tags, url: '#tag'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
