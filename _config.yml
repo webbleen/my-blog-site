@@ -1,7 +1,7 @@
 # Basic
 title: webbleen
 subtitle: 
-description: 昔我往矣，杨柳依依。今我来思，雨雪霏霏。
+description: 空间有形，梦想无限。
 welcome_message: 嗨，我是李文斌。
 creator: <a href="http://webbleen.com">@webbleen</a>
 
@@ -27,7 +27,7 @@ nav:
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 10
 paginate_path: "page/:num/"
 
